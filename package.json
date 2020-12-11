@@ -1,6 +1,6 @@
 {
   "name": "flow1",
-  "version": "0.2.25 beta",
+  "version": "0.2.25",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
